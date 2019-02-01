@@ -1,2 +1,214 @@
-# Teste
-IPTV
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://goo.gl/ralOkM"group-title="CANAIS DE TV",[COLOR blue](CANAIS DE TV) [/COLOR]
+http://
+
+#EXTINF:-1 tvg-logo="https://goo.gl/Wrg5vr" group-title="",[COLOR yellow]( LISTA PREMIUM COM TODOS OS CANAIS LIBERADOS CHAMAR NO WhatsApp)[/COLOR]
+https://videos2.sendvid.com/8c/7e/fk0ral3l.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/NKYyiJ" group-title="",[COLOR red](ADQUIRA JA SEU PACOTE  E TENHA TODOS OS CANAIS FUNCINANDO )[/COLOR]
+https://videos2.sendvid.com/8c/7e/fk0ral3l.mp4
+
+#EXTINF:1 tvg-logo="https://goo.gl/jNoUiT" group-title="",[COLOR orange] (PEDIDOS DE TESTES CHAMA NO WHATSAPP 98 98459-2478)[/COLOR]
+https://videos2.sendvid.com/8c/7e/fk0ral3l.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1xSetycix28/maxresdefault.jpg" group-title="ATUALIZADO",[COLOR red](ATUALIZADO 01/02/19)[/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://goo.gl/NKYyiJ" group-title="",[COLOR green] ATENÇÃO CANAIS TEMPORARIOS![/COLOR]
+https://videos2.sendvid.com/8c/7e/fk0ral3l.mp4
+
+
+################################################################################# Canais Temporários
+
+
+#EXTINF:-1 group-title="Temporários",BAND
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/4.m3u8
+#EXTINF:-1,REDE TV
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1537397908.m3u8
+#EXTINF:-1,SBT
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/2.m3u8
+#EXTINF:-1,RECORD
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/3.m3u8
+#EXTINF:-1,A&E
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/46
+#EXTINF:-1,BAND SPORTS
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/34.m3u8
+#EXTINF:-1,ESPN
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/30.m3u8
+#EXTINF:-1,ESPN BRASIL
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/32.m3u8
+#EXTINF:-1,FOX SPORTS
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/28.m3u8
+#EXTINF:-1,FOX SPORTS 2
+https://www.skyiptv.com.br:25463/live/WhrcLBZf20A/CdGiPPcQ19/29.m3u8
+#EXTINF:-1,FX
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/47
+#EXTINF:-1,GLOBO
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/17
+#EXTINF:-1,SPORTV
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/3009.m3u8
+#EXTINF:-1,SPORTV 2
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/26
+#EXTINF:-1,SPORTV 3
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/27
+#EXTINF:-1,TELECINE ACTION
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/51
+#EXTINF:-1,TELECINE CULT
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/53
+#EXTINF:-1,TELECINE FUN
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/50
+#EXTINF:-1,TELECINE PIPOCA
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/49
+#EXTINF:-1,TELECINE PREMIUM
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/48
+#EXTINF:-1,TELECINE TOUCH
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/52
+#EXTINF:-1,HBO
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/54
+#EXTINF:-1,HBO 2
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/55
+#EXTINF:-1,HBO FAMILY
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/57
+#EXTINF:-1,HBO PLUS
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/56
+#EXTINF:-1,HBO SIGNATURE
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/58
+#EXTINF:-1,SONY
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/59
+#EXTINF:-1,SYFY
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/60
+#EXTINF:-1,FOX
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/61
+#EXTINF:-1,FOX PREMIUM 1
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/62
+#EXTINF:-1,FOX PREMIUM 2
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/63
+#EXTINF:-1,AMC
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/69
+#EXTINF:-1,AXN
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/70
+#EXTINF:-1,FOX LIFE
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/64
+#EXTINF:-1,MEGAPIX
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/68
+#EXTINF:-1,SPACE
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/67
+#EXTINF:-1,TLC
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/71
+#EXTINF:-1,TNT
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/65
+#EXTINF:-1,TNT SÉRIES
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/66
+#EXTINF:-1,CINEMAX
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/76
+#EXTINF:-1,PARAMOUNT
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/75
+#EXTINF:-1,STUDIO UNIVERSAL
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/73
+#EXTINF:-1,TCM
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/72
+#EXTINF:-1,UNIVERSAL CHANNEL
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/74
+#EXTINF:-1,ARTE1
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/96
+#EXTINF:-1,BAND NEWS
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/98
+#EXTINF:-1,BIS
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/94
+#EXTINF:-1,COMBATE
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/77
+#EXTINF:-1,COMEDY CENTRAL
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/93
+#EXTINF:-1,CURTA!
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/92
+#EXTINF:-1,E!
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/95
+#EXTINF:-1,FISH TV
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/91
+#EXTINF:-1,FOOD NETWORK
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/90
+#EXTINF:-1,GLOBO NEWS
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/97
+#EXTINF:-1,GLOBOSAT
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/81
+#EXTINF:-1,GNT
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/89
+#EXTINF:-1,LIFETIME
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/88
+#EXTINF:-1,MAX
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/78
+#EXTINF:-1,MAX PRIME
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/79
+#EXTINF:-1,MAX UP
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/80
+#EXTINF:-1,MTV
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/87
+#EXTINF:-1,MULTISHOW
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/86
+#EXTINF:-1,OFF
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/99
+#EXTINF:-1,TBS
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/85
+#EXTINF:-1,VH1
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/84
+#EXTINF:-1,VIVA
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/82
+#EXTINF:-1,WOOHOO
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/83
+#EXTINF:-1,ANIMAL PLANET
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/101
+#EXTINF:-1,DISCOVERY CHANNEL
+https://www.toquemp3.com:25463/live/WhrcLBZf20A/CdGiPPcQ19/104.m3u8?token=QxBcWRdYGgoRVQoAVAlcWwBSV1lRU1dQCAAMVltYVAUPAANZVggKUwdDHxcXREpcVghtUVcUXlIIBhQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoACAEJCRcbGldMTAFCVlFfPldQEllbXBVfXE1fWkhBV1xnV11UVFlcEA4aVRIUEloSQxdeEntVVhddGGAYJU0aHhpRUU1HVkxXFgJGAggBAkMfFwdfTVdDF0saCRQmMRoeGlZATVBZS1tbVkYKGl0AFAsXSBJRSmgXV0tHRAECVVdKEQIbBRUUEFlZHG9bX10PVlYQWVdXREcIGgMUSEFVXVZaTFZHaEhbUBpeEgkBBlILFxk=
+#EXTINF:-1,DISCOVERY CIVILIZATION
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/105
+#EXTINF:-1,DISCOVERY H&H
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/106
+#EXTINF:-1,DISCOVERY KIDS
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/111
+#EXTINF:-1,DISCOVERY SCIENCE
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/107
+#EXTINF:-1,DISCOVERY THEATER
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/108
+#EXTINF:-1,DISCOVERY TURBO
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/109
+#EXTINF:-1,DISCOVERY WORLD
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/110
+#EXTINF:-1,H2
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/103
+#EXTINF:-1,HISTORY
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/102
+#EXTINF:-1,INVESTIGAÇÃO DISCOVERY
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/115
+#EXTINF:-1,NATGEO KIDS
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/114
+#EXTINF:-1,NATGEO WILD
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/113
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/112
+#EXTINF:-1,BABY TV
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/128
+#EXTINF:-1,BOOMERANG
+https://www.toquemp3.com:25463/live/WhrcLBZf20A/CdGiPPcQ19/127.m3u8?token=QxBcWRdYGgoRBFIFAgNeCg8GBgoDAl0AAFBcAF1aDAYPU1daBlZaUVBDHxcXREpcVghtUVcUXlIKBRQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoACAMLDRcbGldMTAFCVlFfPldQEllbXBVfXE1fWkhBV1xnV11UVFlcEA4aVRIUEloSQxdeEntVVhddGGAYJU0aHhpRUU1HVkxXFgJGAggCBEMfFwdfTVdDF0saCRQmMRoeGlZATVBZS1tbVkYKGl0AFAsXSBJRSmgXV0tHRAECVVdKEQIbBRUUEFlZHG9bX10PVlYQWVdXREcIGgMUSEFVXVZaTFZHaEhbUBpeEgADBlkRSA==
+#EXTINF:-1,CARTOON NETWORK
+https://www.toquemp3.com:25463/live/WhrcLBZf20A/CdGiPPcQ19/117.m3u8?token=QxBcWRdYGgoRBAsMXANdWlYBCwAEDlQGCwoKBAldUQNZVwFcUgUOVQFDHxcXREpcVghtUVcUXlIJBRQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoDCgEOCRcbGldMTAFCVlFfPldQEllbXBVfXE1fWkhBV1xnV11UVFlcEA4aVRIUEloSQxdeEntVVhddGGAYJU0aHhpRUU1HVkxXFgJGAg4DAkMfFwdfTVdDF0saCRQmMRoeGlZATVBZS1tbVkYKGl0AFAsXSBJRSmgXV0tHRAECVVdKEQIbBRUUEFlZHG9bX10PVlYQWVdXREcIGgMUSEFVXVZaTFZHaEhbUBpeEgkCAVULFxk=
+#EXTINF:-1,DISNEY CHANNEL
+https://www.toquemp3.com:25463/live/WhrcLBZf20A/CdGiPPcQ19/118.m3u8?token=QxBcWRdYGgoRAgYBXQJcAQEHBVoEAAYCCQEBB1wOUFZcU1VdAAgOU1VDHxcXREpcVghtUVcUXlIJChQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoDCgsLARcbGldMTAFCVlFfPldQEllbXBVfXE1fWkhBV1xnV11UVFlcEA4aVRIUEloSQxdeEntVVhddGGAYJU0aHhpRUU1HVkxXFgJGCA0CEU0RVgtFVk1FHBACEXQ2QRQQXUtMXFtEUV1aGl4SVQNGWREZRllLZkUAQUxBUwUOXUAaCRoJFxsaX1VAO1NXXl0EUEENX1ZKFV8QCBEaRg5XXFFHV0tqR1FWFgJGAgEBAVIRSA==
+#EXTINF:-1,DISNEY JUNIOR
+https://www.toquemp3.com:25463/live/WhrcLBZf20A/CdGiPPcQ19/119.m3u8?token=QxBcWRdYGgoRWVACVVFeDwBSAlwAAlxSDgYMUVkOUwUOVgdbVwVZCQJDHxcXREpcVghtUVcUXlIJCxQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoDCAIMDhcbGldMTAFCVlFfPldQEllbXBVfXE1fWkhBV1xnV11UVFlcEA4aVRIUEloSQxdeEntVVhddGGAYJU0aHhpRUU1HVkxXFgJGAQEFBUMfFwdfTVdDF0saCRQmMRoeGlZATVBZS1tbVkYKGl0AFAsXSBJRSmgXV0tHRAECVVdKEQIbBRUUEFlZHG9bX10PVlYQWVdXREcIGgMUSEFVXVZaTFZHaEhbUBpeEgkGAlkCFxk=
+#EXTINF:-1,DISNEY XD
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/120
+#EXTINF:-1,GLOOB
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/121
+#EXTINF:-1,NICK JR
+https://www.toquemp3.com:25463/live/WhrcLBZf20A/CdGiPPcQ19/122.m3u8?token=QxBcWRdYGgoRVAtXAQgIDAJXClkABQUHDAEIBl4NDQ5cVAIAVFNbVgRDHxcXREpcVghtUVcUXlIKABQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoKDwUKGxkVXUpAXRZeWVxsBVZDDVNdGw0LR1RfGkYMVm1cVlVYW1MaCBYJRhwaWUAREQ9Gc1RYRQoSax13SkEUEFpaTEtUQ10QDhpWAQoJEU0RVgtFVk1FHBACEXQ2QRQQXUtMXFtEUV1aGl4SVQNGWREZRllLZkUAQUxBUwUOXUAaCRoJFxsaX1VAO1NXXl0EUEENX1ZKFV8QCBEaRg5XXFFHV0tqR1FWFgJGAggHClQRSA==
+#EXTINF:-1,NICKELODEON
+https://www.toquemp3.com:25463/live/WhrcLBZf20A/CdGiPPcQ19/123.m3u8?token=QxBcWRdYGgoRAAoCB1UKAAQDA15RAgVbW1cMBwENAQYOVAIIAFEMBFZDHxcXREpcVghtUVcUXlIKARQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoLCAsPGxkVXUpAXRZeWVxsBVZDDVNdGw0LR1RfGkYMVm1cVlVYW1MaCBYJRhwaWUAREQ9Gc1RYRQoSax13SkEUEFpaTEtUQ10QDhpVCQgJEU0RVgtFVk1FHBACEXQ2QRQQXUtMXFtEUV1aGl4SVQNGWREZRllLZkUAQUxBUwUOXUAaCRoJFxsaX1VAO1NXXl0EUEENX1ZKFV8QCBEaRg5XXFFHV0tqR1FWFgJGAQ8GB1kRSA==
+#EXTINF:-1,TOONCAST
+https://www.toquemp3.com:25463/live/WhrcLBZf20A/CdGiPPcQ19/124.m3u8?token=QxBcWRdYGgoRV1ANXABeDw8BAgAHUwdQCgdaUFoNAgdcVgwPB1EICQpDHxcXREpcVghtUVcUXlIKBhQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoDCwUIDBcbGldMTAFCVlFfPldQEllbXBVfXE1fWkhBV1xnV11UVFlcEA4aVRIUEloSQxdeEntVVhddGGAYJU0aHhpRUU1HVkxXFgJGAggBCkMfFwdfTVdDF0saCRQmMRoeGlZATVBZS1tbVkYKGl0AFAsXSBJRSmgXV0tHRAECVVdKEQIbBRUUEFlZHG9bX10PVlYQWVdXREcIGgMUSEFVXVZaTFZHaEhbUBpeEgoGBVcDFxk=
+#EXTINF:-1,TV RA TIM BUM
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/125
+#EXTINF:-1,WARNER CHANNEL
+https://www.toquemp3.com:25463/live/WhrcLBZf20A/CdGiPPcQ19/116.m3u8?token=QxBcWRdYGgoRVgRUVQkMW1ZcU1kDBAdQDlRaVg0PVlMBUQFeXAMOBgBDHxcXREpcVghtUVcUXlIJBBQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoEAAMLGxkVXUpAXRZeWVxsBVZDDVNdGw0LR1RfGkYMVm1cVlVYW1MaCBYJRhwaWUAREQ9Gc1RYRQoSax13SkEUEFpaTEtUQ10QDhpWCQkCEU0RVgtFVk1FHBACEXQ2QRQQXUtMXFtEUV1aGl4SVQNGWREZRllLZkUAQUxBUwUOXUAaCRoJFxsaX1VAO1NXXl0EUEENX1ZKFV8QCBEaRg5XXFFHV0tqR1FWFgJGAgsCAVERSA==
+#EXTINF:-1,ZOOMOO
+https://www.skyiptv.com.br:25463/WhrcLBZf20A/CdGiPPcQ19/126
