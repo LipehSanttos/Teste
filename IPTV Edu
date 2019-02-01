@@ -11,3 +11,25 @@ https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1537397908.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SBT.png" group-title="TV ABERTA", SBT 
 http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_b796000.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVESCOLA.png" group-title="TV ABERTA", TV ESCOLA 
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1MEGAHITS.png" group-title="TV", VH1 MEGAHITS 
+http://stream.1music.hu/stream/1music.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/liQ1qyU.jpg" group-title="RELIGIÃO", TV Novo Tempo
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV", VH1 HD
+http://91.231.219.145/tv_vh1_classic/video.m3u8?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RÁDIO", Anos 2000
+http://6d9a.webradio.upx.net.br:9940/stream?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RÁDIO", Rock Clássico
+http://192.99.150.31:9125/stream?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RÁDIO", Eletrônica
+http://192.99.150.31:9095/stream?CANALANDRONALTAS
+
