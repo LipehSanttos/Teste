@@ -45,4 +45,5 @@ http://149.56.26.6:25461/live/david01/david01/187154.ts
 #EXTINF:0 tvg-id="Metal.br" group-title="RÁDIO",Metal
 http://6d9a.webradio.upx.net.br:9898/stream?CANALANDRONALTAS
 
-
+#EXTINF:0 tvg-id="HBO" group-title="TV",HBO
+https://www.skyiptv.com.br:25463/live//WhrcLBZf20A/CdGiPPcQ19/54.m3u8
