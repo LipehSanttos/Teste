@@ -33,3 +33,16 @@ http://192.99.150.31:9125/stream?CANALANDRONALTAS
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RÁDIO", Eletrônica
 http://192.99.150.31:9095/stream?CANALANDRONALTAS
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YcV5SMP/Photo-1542096953119.png" group-title="ADULTOS (LEO)",Penthouse
+http://149.56.26.6:25461/live/david01/david01/187153.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YcV5SMP/Photo-1542096953119.png" group-title="ADULTOS (LEO)",SexTreme
+http://149.56.26.6:25461/live/david01/david01/187155.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YcV5SMP/Photo-1542096953119.png" group-title="ADULTOS (LEO)",Venus
+http://149.56.26.6:25461/live/david01/david01/187154.ts
+
+#EXTINF:0 tvg-id="Metal.br" group-title="RÁDIO",Metal
+http://6d9a.webradio.upx.net.br:9898/stream?CANALANDRONALTAS
+
+
